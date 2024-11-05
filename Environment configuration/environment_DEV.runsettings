@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name = "weburl" value = "https://ivecoon-dev.iveco.com/" />
+		<Parameter name = "registration_weburl" value = "//a[@href='https://ivecoon-dev.iveco.com/registration?lang=en']" />
+		<Parameter name = "fm_account" value="mcornetto@live.it" />
+		<Parameter name = "fm_pwd" value="@234Iveco" />
+		<Parameter name = "fm_account2" value="mcornetto@live.it" />
+		<Parameter name = "fm_pwd2" value="@234Iveco" />
+		<Parameter name = "tco_account" value="demo_tco@yopmail.com" />
+		<Parameter name = "tco_pwd" value="@123Iveco" />
+		<Parameter name = "hq_account" value="demo_hq@yopmail.com" />
+		<Parameter name = "hq_pwd" value="@123Iveco" />
+		<Parameter name = "dealer_account" value="demo_dealer@yopmail.com" />
+		<Parameter name = "dealer_pwd" value="@123Iveco" />
+		<Parameter name = "directX_account" value="test.directx.uat.1@yopmail.com" />
+		<Parameter name = "directX_pwd" value="@123Iveco" />
+		<Parameter name = "vin_remote_commands" value="" />
+		<Parameter name = "country_truck_diesel" value="Italy" />
+		<Parameter name = "company_truck_diesel_name" value="SMET SRL" />
+		<Parameter name = "company_truck_diesel_id" value="7" />
+		<Parameter name = "contract_truck_diesel_id" value="453" />
+		<Parameter name = "country_truck_NP" value="Italy" />
+		<Parameter name = "company_truck_NP_name" value="" />
+		<Parameter name = "company_truck_NP_id" value="" />
+		<Parameter name = "contract_truck_NP_id" value="" />
+		<Parameter name = "country_heavybus_diesel" value="France" />
+		<Parameter name = "company_heavybus_diesel_name" value="" />
+		<Parameter name = "company_heavybus_diesel_id" value="" />
+		<Parameter name = "contract_heavybus_diesel_id" value="" />
+		<Parameter name = "country_heavybus_NP" value="France" />
+		<Parameter name = "company_heavybus_NP_name" value="" />
+		<Parameter name = "company_heavybus_NP_id" value="" />
+		<Parameter name = "contract_heavybus_NP_id" value="" />
+		<Parameter name = "country_heavybus_Electric" value="" />
+		<Parameter name = "company_heavybus_Electric_name" value="" />
+		<Parameter name = "company_heavybus_Electric_id" value="" />
+		<Parameter name = "contract_heavybus_Electric_id" value="" />
+		<Parameter name = "country_tway_diesel" value="Italy" />
+		<Parameter name = "company_tway_diesel_name" value="" />
+		<Parameter name = "company_tway_diesel_id" value="" />
+		<Parameter name = "contract_tway_diesel_id" value="" />
+		<Parameter name = "country_light_diesel" value="Italy" />
+		<Parameter name = "company_light_diesel_name" value="" />
+		<Parameter name = "company_light_diesel_id" value="" />
+		<Parameter name = "contract_light_diesel_id" value="" />
+		<Parameter name = "country_light_NP" value="Italy" />
+		<Parameter name = "company_light_NP_name" value="" />
+		<Parameter name = "company_light_NP_id" value="" />
+		<Parameter name = "contract_light_NP_id" value="" />
+		<Parameter name = "country_light_Electric" value="" />
+		<Parameter name = "company_light_Electric_name" value="" />
+		<Parameter name = "company_light_Electric_id" value="" />
+		<Parameter name = "contract_light_Electric_id" value="" />
+		<Parameter name = "company_topcare_id_rodella" value="10" />
+		<Parameter name = "account_italy" value="demo_customer@yopmail.com" />
+	</TestRunParameters>
+</RunSettings>

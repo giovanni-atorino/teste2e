@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name = "weburl" value = "https://ivecoon-cert.iveco.com/" />
+		<Parameter name = "enviroment" value = "cert" />
+		<Parameter name = "OcpApimSubscriptionKey" value = "79975694d526479487070bf69db2c7e3" />
+		<Parameter name = "registration_weburl" value = "//a[@href='https://ivecoon-cert.iveco.com/registration?lang=en']" />
+		<Parameter name = "fm_account" value="mfm_automation@yopmail.com" />
+		<Parameter name = "fm_pwd" value="@123Iveco" />
+		<Parameter name = "fm_account2" value="mfm_automation@yopmail.com" />
+		<Parameter name = "fm_pwd2" value="@123Iveco" />
+		<Parameter name = "tco_account" value="demo_tco@yopmail.com" />
+		<Parameter name = "tco_pwd" value="@123Iveco" />
+		<Parameter name = "hq_account" value="demo_hq@yopmail.com" />
+		<Parameter name = "hq_pwd" value="@123Iveco" />
+		<Parameter name = "dealer_account" value="automation_cert_dealer@yopmail.com" />
+		<Parameter name = "dealer_pwd" value="@123Iveco" />
+		<Parameter name = "directX_account" value="test.directx.uat.1@yopmail.com" />
+		<Parameter name = "directX_pwd" value="@123Iveco" />
+		<Parameter name = "vin_remote_commands" value="ZCFC0000514985415" />
+		<Parameter name = "country_truck_diesel" value="Italy" />
+		<Parameter name = "company_truck_diesel_name" value="TRACEM" />
+		<Parameter name = "company_truck_diesel_id" value="17" />
+		<Parameter name = "contract_truck_diesel_id" value="557" />
+		<Parameter name = "country_truck_NP" value="Italy" />
+		<Parameter name = "company_truck_NP_name" value="UTM LOGISTICA E TRASPORTI S.P.A." />
+		<Parameter name = "company_truck_NP_id" value="393" />
+		<Parameter name = "contract_truck_NP_id" value="12384" />
+		<Parameter name = "country_heavybus_diesel" value="France" />
+		<Parameter name = "company_heavybus_diesel_name" value="SYND MIXTE TRANSPORT RHONE AGGLOMER - FR67256900994" />
+		<Parameter name = "company_heavybus_diesel_id" value="1662" />
+		<Parameter name = "contract_heavybus_diesel_id" value="14870" />
+		<Parameter name = "country_heavybus_NP" value="France" />
+		<Parameter name = "company_heavybus_NP_name" value="" />
+		<Parameter name = "company_heavybus_NP_id" value="" />
+		<Parameter name = "contract_heavybus_NP_id" value="" />
+		<Parameter name = "country_heavybus_Electric" value="Italy" />
+		<Parameter name = "company_heavybus_Electric_name" value="ATM SPA" />
+		<Parameter name = "company_heavybus_Electric_id" value="3104" />
+		<Parameter name = "contract_heavybus_Electric_id" value="25724" />
+		<Parameter name = "country_tway_diesel" value="Italy" />
+		<Parameter name = "company_tway_diesel_name" value="RODELLA TRASPORTI - IT01543880205" />
+		<Parameter name = "company_tway_diesel_id" value="21" />
+		<Parameter name = "contract_tway_diesel_id" value="290" />
+		<Parameter name = "country_light_diesel" value="Italy" />
+		<Parameter name = "company_light_diesel_name" value="Adriacar" />
+		<Parameter name = "company_light_diesel_id" value="20" />
+		<Parameter name = "contract_light_diesel_id" value="216" />
+		<Parameter name = "country_light_NP" value="Italy" />
+		<Parameter name = "company_light_NP_name" value="ZAMBON GMBH SRL - IT01346860214" />
+		<Parameter name = "company_light_NP_id" value="8" />
+		<Parameter name = "contract_light_NP_id" value="226" />
+		<Parameter name = "country_light_Electric" value="Italy" />
+		<Parameter name = "company_light_Electric_name" value="Iveco Demo HQ" />
+		<Parameter name = "company_light_Electric_id" value="56" />
+		<Parameter name = "contract_light_Electric_id" value="25565" />
+		<Parameter name = "company_topcare_id_rodella" value="21" />
+		<Parameter name = "account_italy" value="demo_mfm_rodella@yopmail.com" />
+		<Parameter name = "countryName_changeFleetManager" value="AUSTRIA" />
+		<Parameter name = "countryId_changeFleetManager" value="14" />
+		<Parameter name = "companyName_changeFleetManager" value="Test Company S.P.A." />
+	</TestRunParameters>
+</RunSettings>
